@@ -1,4 +1,4 @@
 # demo2
-author-krushna
+author-krushna Maurya
 <br>
 new repository
